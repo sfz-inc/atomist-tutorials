@@ -9,6 +9,10 @@ This [Rug][rug] project contains Atomist Rug archive project
 
 ## Rugs
 
+### NewCommitPushedToDM
+
+new handler created from [this tutorial](http://docs.atomist.com/tutorials/custom-commit-notifications/)
+
 ### MyFirstEditor
 
 sample Rug TypeScript editor
