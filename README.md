@@ -9,7 +9,7 @@ This [Rug][rug] project contains Atomist Rug archive project
 
 ## Rugs
 
-### NewCommitPushedToDM
+### NewCommitPushedToDM - v2
 
 new handler created from [this tutorial](http://docs.atomist.com/tutorials/custom-commit-notifications/)
 
